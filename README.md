@@ -3,7 +3,7 @@
 ## 💫 About Me:
 🌱 First Year Student at MES MLCOE
 
-🌱 I’m currently learning Python.
+🌱 I’m currently learning PYTHON.
 
 💡 Passionate about building things that can make a difference.
 
